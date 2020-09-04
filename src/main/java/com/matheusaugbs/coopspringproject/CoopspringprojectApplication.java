@@ -9,5 +9,4 @@ public class CoopspringprojectApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CoopspringprojectApplication.class, args);
 	}
-
 }
